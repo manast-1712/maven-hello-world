@@ -12,7 +12,7 @@
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">My job in CI CD</h1>
       <h2 class="text-center">Hi There!!!!</h2>
-      <h2 class="text-center">This is devops exp 7</h2>
+      <h2 class="text-center">This is lab evaluation</h2>
       
   </div>
 </body>
